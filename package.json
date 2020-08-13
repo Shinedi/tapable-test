@@ -1,0 +1,23 @@
+{
+  "name": "tapable-test",
+  "version": "1.0.0",
+  "description": "tapable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shinedi/tapable-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shinedi/tapable-test/issues"
+  },
+  "homepage": "https://github.com/Shinedi/tapable-test#readme",
+  "devDependencies": {
+    "tapable": "^1.1.3"
+  }
+}
